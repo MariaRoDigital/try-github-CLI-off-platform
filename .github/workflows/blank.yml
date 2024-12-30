@@ -30,7 +30,7 @@ jobs:
 
       # Runs a set of commands using the runner's shell
       - name: second_step
-        run: 
+        run: |
         echo You are learning GitHub Actions.
         echo It is fun to learn programming at Codecademy!
 
